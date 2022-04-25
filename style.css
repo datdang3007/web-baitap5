@@ -98,7 +98,7 @@ a {
     width: 0;
     height: 0;
     border-style: solid;
-    border-width: 14px 10px 10px 14px;
+    border-width: 11.5px 11.5px 11.5px 11.5px;
     -webkit-transform: translateX(100%);
     transform: translateX(100%);
     border-color: transparent transparent transparent #a11d0a;
